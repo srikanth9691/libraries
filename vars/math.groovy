@@ -6,7 +6,7 @@ def sub(a,b)
 {
   echo "the subtration of${a} and ${b} is ${a-b}"
 }
-def mul(a,d)
+def mul(a,b)
 {
   echo " the product of ${a} and ${b} is ${a*b}"
 }
